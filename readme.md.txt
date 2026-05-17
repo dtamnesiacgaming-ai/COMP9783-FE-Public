@@ -1,34 +1,32 @@
-# COMP9783-FE-Public
+# Final-Project app title
 
-## Repository Author
+Final-Project app text here...
 
-Christian Vettoretto
+---
 
-## Description
+## Table of Contents
 
-This is my first public repository for the COMP9783 Front-End Development course.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Lab Purpose
+---
 
-This repository was created to practise:
+## Features
 
-- Creating a public GitHub repository
-- Cloning a repository with GitHub Desktop
-- Making commits
-- Publishing changes
-- Creating branches
-- Opening and merging pull requests
-- Adding a React Vite project
+- **Feature 1:** Feature text here...
+- **Feature 2:** Feature text here...
+- **Feature 3:** Feature text here...
+- **Feature 4:** Feature text here...
 
-## Tools Used
+---
 
-- GitHub
-- GitHub Desktop
-- VSCode
-- Node.js
-- Vite
-- React
+## Installation
 
-## Notes
-
-This repository is part of Lab 3-1.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/COMP9783-FE-Public.git
